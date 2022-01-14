@@ -15,7 +15,8 @@
 		"ms-azuretools.vscode-azureresourcegroups",
 		"ms-mssql.mssql",
 		"alexey-strakh.stackoverflow-search",
-		"tonybaloney.vscode-pets"
+		"tonybaloney.vscode-pets",
+		"microsoft-IsvExpTools.powerplatform-vscode"
 	],
 	//current default CS has everything needed so no extra items to install at this time 1-6-21 
 	//    "dockerFile": "Dockerfile",
